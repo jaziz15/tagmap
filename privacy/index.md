@@ -1,14 +1,14 @@
-# TagMap Privacy Policy 
+# TagMap — Privacy Policy
 
-**Last updated:** 29 September 2026
+**Last updated:** 23 October 2026
 **Publisher:** Joe Aziz
 **Contact:** joeaziz77@gmail.com
 
 ## What TagMap is
 
-TagMap is a Chrome extension for analysts and product managers. It shows which analytics
-events a website fires as you use it, and lets you save sequences of those events as named
-"funnels" for later reference.
+TagMap is a Chrome extension for analysts and product managers. It shows which Segment and
+Amplitude analytics events a website fires as you use it, and lets you save sequences of
+those events as named "funnels" for later reference.
 
 ## Where TagMap runs
 
@@ -53,8 +53,9 @@ it.
 
 ## What TagMap does not do
 
-- It does **not** persist observed property values to any database. Property values appear
-  transiently in the side panel and are never written to the backend.
+- It does **not** persist observed property values to any database, other than the values
+  you explicitly select as distinguishing properties for a funnel step. All other property
+  values appear transiently in the side panel and are never written to the backend.
 - It does **not** collect your browsing history, page content, form input, keystrokes, or
   any personal data beyond the account email you use to sign in.
 - It does **not** collect data from sites you have not explicitly enabled.
@@ -97,3 +98,4 @@ a new "Last updated" date, and the Chrome Web Store listing will be updated to m
 
 joeaziz77@gmail.com
 Joe Aziz
+
